@@ -15,3 +15,8 @@ def menu():
         a = float(input("Digite o primeiro número: "))
         b = float(input("Digite o segundo número: "))
         print("Resultado:", a - b)
+        
+    elif opcao == "3":
+        a = float(input("Digite o primeiro número: "))
+        b = float(input("Digite o segundo número: "))
+        print("Resultado:", a * b)
